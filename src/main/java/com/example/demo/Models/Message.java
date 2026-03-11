@@ -12,4 +12,5 @@ public class Message {
     private String NumControl;
     private String name;
     private String content;
+    private String image; 
 }
